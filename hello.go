@@ -11,7 +11,6 @@ import (
 
 func main() {
 	user := make(map[string]interface{})
-
 	user["name"] = "jiaojiao"
 	user["email"] = "123@qq.com"
 
